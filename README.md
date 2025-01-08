@@ -1,6 +1,6 @@
 # 📝 **PRM392 Code Demo**
 
-> 📚 **All source code from PRM392 that I learned at FPT University QN AI Campus.**
+> 📚 **All source code from PRM392 that we learned at FPT University QN AI Campus.**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android-Jetpack%20Compose-green?style=for-the-badge&logo=android" alt="Android Compose">
