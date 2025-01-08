@@ -11,8 +11,8 @@
 
 | Slot      | Topic                                    | Link                   |
 | --------- | ---------------------------------------- | ---------------------- |
-| 🎯 Slot 3 | Views in Android Jetpack Compose Display | [Click here!](#slot-3) |
-| 🎨 Slot 4 | What is a Style? Apply Style in Compose  | [Click here!](#slot-4) |
+| 🎯 Slot 3 | Views in Android Jetpack Compose Display | [Click here!](slot-3) |
+| 🎨 Slot 4 | What is a Style? Apply Style in Compose  | [Click here!](slot-4) |
 
 ## 👥 **Contributors**
 
