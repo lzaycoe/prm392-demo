@@ -22,7 +22,7 @@ fun BasicViewsDemo() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
-            text = "Slot 3 - Code Demo \n Group 1",
+            text = "Slot 3 - Code Demo \n\n \uD83E\uDDA5 Group 1",
             fontSize = 35.sp,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.error,
