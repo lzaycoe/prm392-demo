@@ -18,9 +18,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-//            BasicViewsDemo()
+            BasicViewsDemo()
 
-            UserInputDemo()
+//            UserInputDemo()
 
 //            MeasureDemo()
         }
@@ -30,9 +30,9 @@ class MainActivity : ComponentActivity() {
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-//            BasicViewsDemo()
+            BasicViewsDemo()
 
-    UserInputDemo()
+//    UserInputDemo()
 
 //            MeasureDemo()
 }
