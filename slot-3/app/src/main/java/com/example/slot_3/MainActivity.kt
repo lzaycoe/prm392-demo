@@ -18,33 +18,21 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            Slot3Theme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Group 1",
-                        modifier = Modifier.padding(innerPadding)
-                    )
-                }
-            }
 //            BasicViewsDemo()
-//            UserInputDemo()
+
+            UserInputDemo()
+
 //            MeasureDemo()
         }
     }
 }
 
-@Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
-}
-
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
-    Slot3Theme {
-        Greeting("Android")
-    }
+//            BasicViewsDemo()
+
+    UserInputDemo()
+
+//            MeasureDemo()
 }
