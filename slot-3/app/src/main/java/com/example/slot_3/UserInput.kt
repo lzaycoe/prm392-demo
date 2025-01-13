@@ -18,6 +18,7 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
@@ -32,13 +33,12 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
-
 @Composable
 fun UserInputDemo() {
     var textField by remember { mutableStateOf("") }
     var outlinedTextField by remember { mutableStateOf("") }
     var basicTextField by remember { mutableStateOf("Basic Text Field") }
-    var sliderValue by remember { mutableStateOf(50f) }
+    var sliderValue by remember { mutableFloatStateOf(50f) }
     var sliderPosition by remember { mutableStateOf(0f..100f) }
 
     Column(
@@ -197,6 +197,6 @@ fun SliderSection(
             steps = 5,
             valueRange = 0f..100f,
         )
-        Text(text = "Range Slider: ${sliderPosition.toString()}")
+        Text(text = "Range Slider: $sliderPosition")
     }
 }
