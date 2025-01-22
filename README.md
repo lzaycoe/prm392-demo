@@ -9,10 +9,12 @@
 
 ## 🚀 **Content**
 
-| Slot      | Topic                                    | Link                  |
-| --------- | ---------------------------------------- | --------------------- |
-| 🎯 Slot 3 | Views in Android Jetpack Compose Display | [Click here!](slot-3) |
-| 🎨 Slot 4 | What is a Style? Apply Style in Compose  | [Click here!](slot-4) |
+| Slot      | Topic                                     | Link                  |
+| --------- | ----------------------------------------- | --------------------- |
+| 🎯 Slot 3 | Views in Android Jetpack Compose Display  | [Click here!](slot-3) |
+| 🎨 Slot 4 | What is a Style? Apply Style in Compose   | [Click here!](slot-4) |
+| 🛠️ Slot 5 | Activity and Defining an Activity Compose | [Click here!](slot-5) |
+| 🖼️ Slot 6 | Display Images & Menus Compose            | [Click here!](slot-6) |
 
 ## 🌟 **Experience**
 
@@ -30,14 +32,13 @@ Download and install Android Studio from the [official site](https://developer.a
 2. In the Version Control options, select **Repository URL**.
 3. Enter the repository URL:
 
-  ```plaintext
-  https://github.com/lzaycoe/prm392-demo.git
-  ```
+```plaintext
+https://github.com/lzaycoe/prm392-demo.git
+```
 
 4. Choose a directory on your local machine where you want to clone the repository.
 5. Click **Clone**.
 6. Wait for Android Studio to sync the project and resolve dependencies.
-
 
 ## 👥 **Contributors**
 
