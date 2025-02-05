@@ -9,12 +9,17 @@
 
 ## 🚀 **Content**
 
-| Slot      | Topic                                     | Link                  |
-| --------- | ----------------------------------------- | --------------------- |
-| 🎯 Slot 3 | Views in Android Jetpack Compose Display  | [Click here!](slot-3) |
-| 🎨 Slot 4 | What is a Style? Apply Style in Compose   | [Click here!](slot-4) |
-| 🛠️ Slot 5 | Activity and Defining an Activity Compose | [Click here!](slot-5) |
-| 🖼️ Slot 6 | Display Images & Menus Compose            | [Click here!](slot-6) |
+| Slot       | Topic                                     | Link                   |
+| ---------- | ----------------------------------------- | ---------------------- |
+| 🎯 Slot 3  | Views in Android Jetpack Compose Display  | [Click here!](slot-3)  |
+| 🎨 Slot 4  | What is a Style? Apply Style in Compose   | [Click here!](slot-4)  |
+| 🛠️ Slot 5  | Activity and Defining an Activity Compose | [Click here!](slot-5)  |
+| 🖼️ Slot 6  | Display Images & Menus Compose            | [Click here!](slot-6)  |
+| 💾 Slot 7  | Data Storage: Shared Preferences          | [Click here!](slot-7)  |
+| 🌐 Slot 8  | Web services - Retrofit Compose           | [Click here!](slot-8)  |
+| 🏛️ Slot 9  | Android architecture: MVC Pattern         | [Click here!](slot-9)  |
+| 📡 Slot 10 | Android Broadcast Receiver                | [Click here!](slot-10) |
+| 🔐 Slot 11 | Supabase authentication with Android      | [Click here!](slot-11) |
 
 ## 🌟 **Experience**
 
