@@ -23,6 +23,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Activity for Retrieving -->
+        <activity
+            android:name=".RetrievingData"
+            android:exported="true"
+            android:label="Retrieving Data" />
+
+        <!-- Activity for Definition -->
+        <activity
+            android:name=".ClearingData"
+            android:exported="true"
+            android:label="Clearing Data" />
     </application>
 
 </manifest>
