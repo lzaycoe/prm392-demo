@@ -2,6 +2,12 @@
 
 > 📚 **All source code from PRM392 that we learned at FPT University QN AI Campus.**
 
+## 📢 Advertisement
+
+<img src="https://raw.githubusercontent.com/fptqnk17/.github/refs/heads/main/images/banner-bao-thu.png" alt="Advertisement" />
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Android-Jetpack%20Compose-green?style=for-the-badge&logo=android" alt="Android Compose">
   <img src="https://img.shields.io/badge/FPT%20University-QN%20AI%20Campus-blue?style=for-the-badge">
