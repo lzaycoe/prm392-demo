@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "io.lzaycoe.slot10"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "io.lzaycoe.slot10"
