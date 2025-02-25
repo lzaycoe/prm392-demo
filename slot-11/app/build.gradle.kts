@@ -72,13 +72,21 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
+    //Supabase
     implementation(platform("io.github.jan-tennert.supabase:bom:3.1.1"))
     implementation("io.github.jan-tennert.supabase:postgrest-kt")
     implementation("io.github.jan-tennert.supabase:auth-kt")
     implementation("io.github.jan-tennert.supabase:realtime-kt")
+
+    // Ktor
     implementation("io.ktor:ktor-client-android:3.1.0")
 
+    // MVVM pattern
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7")
+
+    // Navigation
     implementation("androidx.navigation:navigation-compose:2.8.7")
+
+    // Material Icons
     implementation("androidx.compose.material:material-icons-extended:1.7.8")
 }
