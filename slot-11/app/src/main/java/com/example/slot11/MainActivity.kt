@@ -86,7 +86,6 @@ fun App() {
         composable("home") {
             HomeScreen(
                 viewModel = viewModel,
-                navController = navController
             )
         }
     }
